@@ -1,4 +1,3 @@
-# Python-Mini-Project
 Hi, I'm Bansita Sahu
 # About Me
 Perusing Electrical Engineering at Indira Gandhi Institute Of Technology
